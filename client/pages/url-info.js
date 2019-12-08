@@ -54,7 +54,6 @@ class UrlInfoPage extends Component {
           <Title>Target:</Title>
           <Target>{this.props.query.linkTarget}</Target>
         </Wrapper>
-        <Footer />
       </BodyWrapper>
     );
   }

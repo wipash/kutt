@@ -97,7 +97,7 @@ const SettingsDomain = ({
   <div>
     <h3>Custom domain</h3>
     <p>
-      You can set a custom domain for your short URLs, so instead of <b>kutt.it/shorturl</b> you can
+      You can set a custom domain for your short URLs, so instead of <b>s.dont.ltd/shorturl</b> you can
       have <b>example.com/shorturl.</b>
     </p>
     <p>

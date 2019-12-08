@@ -10,7 +10,6 @@ import Settings from '../components/Settings';
 const SettingsPage = ({ auth, isAuthenticated }) => (
   <BodyWrapper>
     {isAuthenticated ? <Settings /> : <PageLoading />}
-    <Footer />
   </BodyWrapper>
 );
 
